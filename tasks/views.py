@@ -9,9 +9,6 @@ from rest_framework.response import Response
 
 
 
-
-
-
 # class TaskListCreateView(APIView):
 #     permission_classes = [permissions.IsAuthenticated]
 
